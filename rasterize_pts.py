@@ -3,7 +3,7 @@ from osgeo import ogr
 from osgeo import gdalconst
 import os
 
-os.chdir(r"E:\Spring2020\Mongolia\harris_package\harris_package")
+os.chdir(r"your directory")
 
 
 shp1='classes20.shp'
@@ -11,9 +11,9 @@ shp2='classes30.shp'
 shp3='classes40.shp'
 
 
-r1=r"images\Index of 011315448020_01\011315448020_01_P001_MUL\19SEP25034353-M2AS-011315448020_01_P001.tif"
-r2=r"images\Index of 011315448030_01\011315448030_01_P001_MUL\19SEP08040927-M2AS-011315448030_01_P001.tif"
-r3=r"images\Index of 011315448040_01\011315448040_01_P001_MUL\19SEP08040926-M2AS-011315448040_01_P001.tif"
+r1=r"image 1"
+r2=r"image 2"
+r3=r"image 3"
 
 
 
